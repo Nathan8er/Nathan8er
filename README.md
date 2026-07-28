@@ -11,42 +11,32 @@
 [![Email](https://img.shields.io/badge/hire_me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:nathanhladil@gmail.com)
 [![Visitors](https://komarev.com/ghpvc/?username=Nathan8er&style=for-the-badge&color=8b5cf6&label=VISITORS)](https://github.com/Nathan8er)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
 
 </div>
-
-<br>
-
-```console
-nate@n8r5k:~$ whoami
-
-  ROLE      self-taught developer · freelance web dev
-  BASE      Canada
-  SINCE     2018 — eight years, no formal training
-  STACK     PHP · JavaScript · MySQL · Lua
-  PEAK      ~40,000 daily active users on one hand-built platform
-  METHOD    write it from scratch, break it, understand it, keep it
-
-nate@n8r5k:~$ cat about.txt
-
-  I build browser games and the systems underneath them.
-  Databases, economies, admin panels, matchmaking — the
-  unglamorous parts that decide whether a game holds up
-  when more than three people show up at once.
-
-  Most of what I know came from shipping something,
-  watching it fall over, and fixing it at 2am.
-
-nate@n8r5k:~$ █
-```
 
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=800&color=3B82F6&width=760&height=260&lines=nate%40n8r5k%3A~%24+whoami;;++ROLE+++++self-taught+developer+%C2%B7+freelance+web+dev;++BASE+++++Canada;++SINCE++++2018+%E2%80%94+eight+years%2C+no+formal+training;++STACK++++PHP+%C2%B7+JavaScript+%C2%B7+MySQL+%C2%B7+Lua;++PEAK+++++~40%2C000+daily+active+users+on+one+platform;++METHOD++++write+it+from+scratch%2C+break+it%2C+understand+it;;nate%40n8r5k%3A~%24+cat+about.txt;;++I+build+browser+games+and+the+systems+underneath+them.;++Databases%2C+economies%2C+admin+panels%2C+matchmaking+%E2%80%94+the;++unglamorous+parts+that+decide+whether+a+game+holds+up;++when+more+than+three+people+show+up+at+once.;;++Most+of+what+I+know+came+from+shipping+something%2C;++watching+it+fall+over%2C+and+fixing+it+at+2am.;;nate%40n8r5k%3A~%24+_" alt="terminal" />
+
 </div>
 
-## 🚀 &nbsp;Selected Work
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
+</div>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=SELECTED+WORK" alt="SELECTED+WORK" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6B7280&center=true&vCenter=true&width=700&height=25&lines=things+that+shipped+and+stayed+shipped" alt="" />
+
+</div>
+
 
 <table>
 <tr>
@@ -132,10 +122,17 @@ Built for the day the grid isn't there.
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
 </div>
 
-## 🧭 &nbsp;Current State
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=CURRENT+STATE" alt="CURRENT+STATE" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6B7280&center=true&vCenter=true&width=700&height=25&lines=what+I%27m+doing+right+now" alt="" />
+
+</div>
+
 
 <table>
 <tr><td>🔭</td><td><b>Building</b></td><td>SUPERMESS on Roblox, plus whatever client site is on my desk this week</td></tr>
@@ -149,12 +146,23 @@ Built for the day the grid isn't there.
 <br>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
 </div>
 
-## 🛠️ &nbsp;Arsenal
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=ARSENAL" alt="ARSENAL" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6B7280&center=true&vCenter=true&width=700&height=25&lines=tools+I+actually+reach+for" alt="" />
+
+</div>
+
 
 <div align="center">
+
+<img src="https://skillicons.dev/icons?i=php,js,lua,py,cpp,html,css,mysql,nodejs,jquery,apache,arduino,raspberrypi,git,github,vscode&perline=8" width="90%" />
+
+<br><br>
 
 <sub><b>LANGUAGES</b></sub><br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -180,11 +188,18 @@ Built for the day the grid isn't there.
 ![Roblox](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
 
 </div>
 
-## 📊 &nbsp;By the Numbers
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=BY+THE+NUMBERS" alt="BY+THE+NUMBERS" />
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6B7280&center=true&vCenter=true&width=700&height=25&lines=the+receipts" alt="" />
+
+</div>
+
 
 <div align="center">
 
@@ -209,11 +224,11 @@ Built for the day the grid isn't there.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,25:3b82f6,50:8b5cf6,75:3b82f6,100:0d1117&height=4&animation=blinking" width="100%" />
 
-### 💼 &nbsp;Available for freelance work
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=45&lines=AVAILABLE+FOR+FREELANCE+WORK;SITES+%C2%B7+TOOLS+%C2%B7+CUSTOM+SYSTEMS;LET%27S+BUILD+SOMETHING" alt="" />
 
-Sites, tools, and custom systems for businesses that need something built properly.
+<br>
 
 [![Get in touch](https://img.shields.io/badge/START_A_PROJECT-3b82f6?style=for-the-badge&logoColor=white)](mailto:nathanhladil@gmail.com)
 [![Portfolio](https://img.shields.io/badge/SEE_MY_WORK-8b5cf6?style=for-the-badge&logoColor=white)](https://n8r5k.com)
