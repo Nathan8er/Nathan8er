@@ -24,7 +24,7 @@ that probably shouldn't work as well as they do.
 
 Mostly browser games and the systems behind them — databases, economies, admin panels, matchmaking. The unglamorous parts that make a game hold up when more than three people show up at once.
 
-
+|   |   |
 |---|---|
 | 🔭 &nbsp;**Building now** | **SUPERMESS** — a multiplayer minigame collection in Roblox, ~5,700 lines of Lua — plus whatever client site is on my desk this week |
 | 🌱 &nbsp;**Learning** | LoRa mesh networking, ESP32 firmware, and how to stop rewriting things that already work |
@@ -124,19 +124,15 @@ Offline survival computer. Maps, reference tools, and a terminal UI running on a
 
 <br>
 
-## 🐍 &nbsp;Watch It Eat My Commits
+## 🏆 &nbsp;Trophies
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake.svg" />
-  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake.svg" width="100%" />
-</picture>
+<img src="https://github-profile-trophy.vercel.app/?username=Nathan8er&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan8er&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan8er&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true&radius=8" width="100%" />
 
 </div>
 
