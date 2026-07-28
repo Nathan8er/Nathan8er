@@ -216,6 +216,22 @@ Built for the day the grid isn't there.
 
 <br><br>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=24&pause=99999&color=3B82F6&center=true&vCenter=true&width=700&height=40&lines=EIGHT+YEARS+OF+COMMITS%2C+RENDERED" alt="" />
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Nathan8er/Nathan8er/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="3D contribution city" />
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake.svg" />
+  <img src="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake.svg" width="100%" alt="Snake eating my contributions" />
+</picture>
+
+<br><br>
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan8er&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true&radius=10" width="100%" />
 
 </div>
