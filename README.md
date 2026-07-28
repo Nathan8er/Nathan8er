@@ -1,58 +1,81 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3b82f6,100:8b5cf6&height=180&section=header&text=Nate%20Hladil&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=self-taught%20dev%20%C2%B7%20builds%20games%20that%20somehow%20hold%20up&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b82f6,100:8b5cf6&height=220&section=header&text=NATE%20HLADIL&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=self-taught%20dev%20%E2%80%A2%20builds%20games%20that%20somehow%20hold%20up&descAlignY=57&descSize=16" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=3B82F6&center=true&vCenter=true&width=600&lines=PHP+%C2%B7+JavaScript+%C2%B7+MySQL+%C2%B7+Lua;40%2C000%2B+daily+active+users+on+a+hobby+project;No+framework.+No+regrets." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&height=45&lines=8+years+self-taught.+Zero+bootcamps.;40%2C000%2B+daily+active+users+on+a+hobby+project.;PHP+%C2%B7+JavaScript+%C2%B7+MySQL+%C2%B7+Lua;No+framework.+No+regrets." alt="Typing SVG" />
 
 <br>
 
-[![Website](https://img.shields.io/badge/n8r5k.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://n8r5k.com)
-[![Instagram](https://img.shields.io/badge/@n8r5k-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/n8r5k)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nathanhladil@gmail.com)
-[![Profile Views](https://komarev.com/ghpvc/?username=Nathan8er&style=for-the-badge&color=3b82f6&label=VISITORS)](https://github.com/Nathan8er)
+[![Website](https://img.shields.io/badge/n8r5k.com-0d1117?style=for-the-badge&logo=googlechrome&logoColor=3b82f6&labelColor=0d1117)](https://n8r5k.com)
+[![Instagram](https://img.shields.io/badge/@n8r5k-0d1117?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=0d1117)](https://instagram.com/n8r5k)
+[![Email](https://img.shields.io/badge/hire_me-0d1117?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1117)](mailto:nathanhladil@gmail.com)
+[![Visitors](https://komarev.com/ghpvc/?username=Nathan8er&style=for-the-badge&color=8b5cf6&label=VISITORS)](https://github.com/Nathan8er)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
 
 </div>
 
 <br>
 
-## 🧭 &nbsp;About
+```console
+nate@n8r5k:~$ whoami
 
+  ROLE      self-taught developer · freelance web dev
+  BASE      Canada
+  SINCE     2018 — eight years, no formal training
+  STACK     PHP · JavaScript · MySQL · Lua
+  PEAK      ~40,000 daily active users on one hand-built platform
+  METHOD    write it from scratch, break it, understand it, keep it
+
+nate@n8r5k:~$ cat about.txt
+
+  I build browser games and the systems underneath them.
+  Databases, economies, admin panels, matchmaking — the
+  unglamorous parts that decide whether a game holds up
+  when more than three people show up at once.
+
+  Most of what I know came from shipping something,
+  watching it fall over, and fixing it at 2am.
+
+nate@n8r5k:~$ █
 ```
-Self-taught developer from Canada. Eight years of building things
-that probably shouldn't work as well as they do.
-```
-
-Mostly browser games and the systems behind them — databases, economies, admin panels, matchmaking. The unglamorous parts that make a game hold up when more than three people show up at once.
-
-|   |   |
-|---|---|
-| 🔭 &nbsp;**Building now** | **SUPERMESS** — a multiplayer minigame collection in Roblox, ~5,700 lines of Lua — plus whatever client site is on my desk this week |
-| 🌱 &nbsp;**Learning** | LoRa mesh networking, ESP32 firmware, and how to stop rewriting things that already work |
-| 🤝 &nbsp;**Open to** | freelance web work, game collabs, and anything involving a weird idea and a deadline |
-| 💬 &nbsp;**Ask me about** | scaling a hobby project past 40K users, PHP/MySQL game backends, or why I still don't use a framework |
-| ⚡ &nbsp;**Fun fact** | I built an offline survival computer that runs maps and reference tools on a Raspberry Pi with no internet at all |
-| 🥒 &nbsp;**Off the clock** | Pokémon GO raids, pickleball, and hanging out with friends |
 
 <br>
 
-## 🚀 &nbsp;Shipped
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+</div>
+
+## 🚀 &nbsp;Selected Work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
 ### 🌐 &nbsp;n8r5k.com
-A gaming platform that grew from a side project to **~40,000 daily active users**. Everything hand-built: accounts, economy, moderation tools, the lot.
+**~40,000 daily active users**
 
-`PHP` `MySQL` `JavaScript`
+A side project that turned into a gaming platform. Accounts, virtual economy, moderation tooling, live game hosting — all hand-built, no framework, no ORM.
+
+The interesting problem wasn't the games. It was keeping MySQL calm at 40K.
+
+![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![JS](https://img.shields.io/badge/-JavaScript-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
 <td width="50%" valign="top">
 
 ### ⚽ &nbsp;YolkBall
-2D multiplayer soccer with a full rating system, cosmetic shop, clan leaderboards, and an admin panel.
+**real-time 2D multiplayer**
 
-`PHP` `MySQL` `Vanilla JS`
+Physics-based soccer in the browser. Full Elo-style rating ladder, cosmetic shop, clan leaderboards, and an admin panel for live moderation.
+
+Vanilla JS on the client. No engine, no Canvas library.
+
+![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
+![JS](https://img.shields.io/badge/-Vanilla_JS-0d1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
 </td>
 </tr>
@@ -60,30 +83,80 @@ A gaming platform that grew from a side project to **~40,000 daily active users*
 <td width="50%" valign="top">
 
 ### 🃏 &nbsp;VAULT
-Browser collectible card game — auctions, card variants, quests, and a deep admin suite behind it.
+**player-driven card economy**
 
-`PHP` `MySQL` `JavaScript`
+A collectible card game where the economy runs itself. Live auction house, card rarity variants, quest chains, and a deep admin suite behind the curtain.
+
+Balancing a virtual economy is harder than building one.
+
+![PHP](https://img.shields.io/badge/-PHP-0d1117?style=flat-square&logo=php&logoColor=777BB4)
+![MySQL](https://img.shields.io/badge/-MySQL-0d1117?style=flat-square&logo=mysql&logoColor=4479A1)
 
 </td>
 <td width="50%" valign="top">
 
 ### 🛰️ &nbsp;APEX
-Offline survival computer. Maps, reference tools, and a terminal UI running on a Pi Zero with zero internet.
+**works with the internet off**
 
-`Python` `Leaflet.js` `Raspberry Pi`
+An offline survival computer on a Pi Zero 2W. Vector maps, reference libraries, and a terminal UI — fully functional with no connection of any kind.
+
+Built for the day the grid isn't there.
+
+![Python](https://img.shields.io/badge/-Python-0d1117?style=flat-square&logo=python&logoColor=3670A0)
+![RPi](https://img.shields.io/badge/-Raspberry_Pi-0d1117?style=flat-square&logo=raspberrypi&logoColor=A22846)
+![Leaflet](https://img.shields.io/badge/-Leaflet-0d1117?style=flat-square&logo=leaflet&logoColor=199900)
 
 </td>
 </tr>
 </table>
 
+<details>
+<summary><b>&nbsp;📦 &nbsp;More things I've shipped &nbsp;<i>(click to expand)</i></b></summary>
+
 <br>
 
-## 🛠️ &nbsp;Tech
+| Project | What it is | Stack |
+|---|---|---|
+| **SUPERMESS** | Multiplayer minigame collection on Roblox — ~5,700 lines of Lua across shop, progression, and admin systems | `Lua` `Roblox` |
+| **Animal Alliance** | Online multiplayer board game with full lobby and turn system | `PHP` `MySQL` |
+| **Riftbound** | Faction-based collectible MMO | `PHP` `MySQL` |
+| **Kitty City** | Passive cat-collection game, Neko Atsume-inspired | `PHP` `JS` |
+| **Pack Wars** | Virtual-coin wagering and pack-opening game | `PHP` `MySQL` |
+| **PickleDesk** | Court booking and membership management for a pickleball club | `PHP` `MySQL` |
+| **Rees Landscaping** | Client site with custom CMS, gallery, and SEO setup | `PHP` `MySQL` |
+| **DorkTerm** | Terminal-aesthetic search tool with a TensorFlow.js detection module | `JS` `TF.js` |
+| **Quipster** | Jackbox-style party game — phones as controllers | `PHP` `JS` |
+
+</details>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+</div>
+
+## 🧭 &nbsp;Current State
+
+<table>
+<tr><td>🔭</td><td><b>Building</b></td><td>SUPERMESS on Roblox, plus whatever client site is on my desk this week</td></tr>
+<tr><td>🌱</td><td><b>Learning</b></td><td>LoRa mesh networking, ESP32 firmware, and how to stop rewriting things that already work</td></tr>
+<tr><td>🤝</td><td><b>Open to</b></td><td>Freelance web work, game collabs, and anything involving a weird idea and a deadline</td></tr>
+<tr><td>💬</td><td><b>Ask me about</b></td><td>Scaling a hobby project past 40K users, PHP/MySQL game backends, or why I still don't use a framework</td></tr>
+<tr><td>⚡</td><td><b>Fun fact</b></td><td>My survival computer has never once touched the internet — and that's the entire point</td></tr>
+<tr><td>🥒</td><td><b>Off the clock</b></td><td>Pokémon GO raids, pickleball, and hanging out with friends</td></tr>
+</table>
+
+<br>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
+</div>
+
+## 🛠️ &nbsp;Arsenal
 
 <div align="center">
 
-**Languages**
-
+<sub><b>LANGUAGES</b></sub><br>
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
@@ -92,60 +165,63 @@ Offline survival computer. Maps, reference tools, and a terminal UI running on a
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**Data & Backend**
-
+<sub><b>BACKEND &amp; DATA</b></sub><br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)
+![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 
-**Hardware & Tools**
-
+<sub><b>HARDWARE &amp; TOOLS</b></sub><br>
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Espressif](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Roblox Studio](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
+![Roblox](https://img.shields.io/badge/Roblox_Studio-00A2FF?style=for-the-badge&logo=roblox&logoColor=white)
 ![itch.io](https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white)
 
-</div>
-
-<br>
-
-## 📊 &nbsp;Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathan8er&show_icons=true&include_all_commits=true&hide_border=true&title_color=3b82f6&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan8er&layout=compact&hide_border=true&include_all_commits=true&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
-
-<img src="https://streak-stats.demolab.com?user=Nathan8er&hide_border=true&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&background=0d1117&stroke=30363d&sideLabels=c9d1d9&dates=8b949e" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
 
 </div>
 
-<br>
-
-## 🏆 &nbsp;Trophies
+## 📊 &nbsp;By the Numbers
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Nathan8er&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=Nathan8er&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
+
+<br>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathan8er&show_icons=true&include_all_commits=true&hide_border=true&title_color=3b82f6&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan8er&layout=compact&hide_border=true&include_all_commits=true&langs_count=8&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=Nathan8er&hide_border=true&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&background=0d1117&stroke=30363d&sideLabels=c9d1d9&dates=8b949e" width="70%" />
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan8er&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true&radius=8" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nathan8er&bg_color=0d1117&color=c9d1d9&line=3b82f6&point=8b5cf6&area=true&area_color=3b82f6&hide_border=true&radius=10" width="100%" />
 
 </div>
 
 <br>
 
----
-
 <div align="center">
 
-💼 &nbsp;Freelance under **N8R5K** — taking on new work
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:3b82f6,100:8b5cf6&height=3" width="100%" />
 
-<sub>Building weird stuff since I was ten.</sub>
+### 💼 &nbsp;Available for freelance work
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:1a1b27&height=100&section=footer" width="100%" />
+Sites, tools, and custom systems for businesses that need something built properly.
+
+[![Get in touch](https://img.shields.io/badge/START_A_PROJECT-3b82f6?style=for-the-badge&logoColor=white)](mailto:nathanhladil@gmail.com)
+[![Portfolio](https://img.shields.io/badge/SEE_MY_WORK-8b5cf6?style=for-the-badge&logoColor=white)](https://n8r5k.com)
+
+<br>
+
+<sub><i>Building weird stuff since I was ten.</i></sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:0d1117&height=120&section=footer" width="100%" />
 
 </div>
