@@ -24,7 +24,7 @@ that probably shouldn't work as well as they do.
 
 Mostly browser games and the systems behind them — databases, economies, admin panels, matchmaking. The unglamorous parts that make a game hold up when more than three people show up at once.
 
-|   |   |
+
 |---|---|
 | 🔭 &nbsp;**Building now** | **SUPERMESS** — a multiplayer minigame collection in Roblox, ~5,700 lines of Lua — plus whatever client site is on my desk this week |
 | 🌱 &nbsp;**Learning** | LoRa mesh networking, ESP32 firmware, and how to stop rewriting things that already work |
