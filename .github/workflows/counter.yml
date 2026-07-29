@@ -1,0 +1,31 @@
+name: Update Counter
+
+on:
+  schedule:
+    # Every day at 06:00 UTC (about 2am Eastern)
+    - cron: "0 6 * * *"
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Check out the repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run the counter script
+        run: python scripts/update_counter.py
+
+      - name: Commit if anything changed
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update counter [skip ci]"
+          file_pattern: "counter.txt README.md"
