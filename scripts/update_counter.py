@@ -6,6 +6,7 @@ current values into README.md between marker comments.
 Run locally with:  python scripts/update_counter.py
 """
 
+import random
 import re
 from datetime import datetime, timezone, date
 from pathlib import Path
@@ -16,6 +17,10 @@ README_FILE = ROOT / "README.md"
 
 # Change this to whenever you want "days coding" measured from
 START_DATE = date(2018, 1, 1)
+
+# Random daily increment range (inclusive)
+MIN_STEP = 5
+MAX_STEP = 20
 
 
 def read_counter() -> int:
@@ -66,14 +71,28 @@ def update_readme(count: int, stamp: str, days: int) -> bool:
     return True
 
 
+def daily_step() -> int:
+    """
+    Pick a random increment between MIN_STEP and MAX_STEP.
+
+    Seeded by today's date, so the value is stable for the whole day —
+    if the workflow retries or you run it twice, you get the same number
+    instead of stacking increments.
+    """
+    rng = random.Random(date.today().isoformat())
+    return rng.randint(MIN_STEP, MAX_STEP)
+
+
 def main() -> None:
-    count = read_counter() + 1
+    step = daily_step()
+    count = read_counter() + step
     stamp = datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M")
     days = (date.today() - START_DATE).days
 
     write_counter(count)
     injected = update_readme(count, stamp, days)
 
+    print(f"step     -> +{step}")
     print(f"counter  -> {count}")
     print(f"days     -> {days}")
     print(f"stamp    -> {stamp} UTC")
