@@ -194,28 +194,6 @@ Built for the day the grid isn't there.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&pause=99999&color=8B5CF6&center=true&vCenter=true&width=700&height=45&lines=BY+THE+NUMBERS" alt="BY+THE+NUMBERS" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=14&pause=1500&color=6B7280&center=true&vCenter=true&width=700&height=25&lines=the+receipts" alt="" />
-
-</div>
-
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nathan8er&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" width="100%" />
-
-<br>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Nathan8er&show_icons=true&include_all_commits=true&hide_border=true&title_color=3b82f6&icon_color=8b5cf6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nathan8er&layout=compact&hide_border=true&include_all_commits=true&langs_count=8&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117" />
-
-<br>
-
-<img src="https://streak-stats.demolab.com?user=Nathan8er&hide_border=true&ring=3b82f6&fire=8b5cf6&currStreakLabel=3b82f6&background=0d1117&stroke=30363d&sideLabels=c9d1d9&dates=8b949e" width="70%" />
-
-<br><br>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nathan8er/Nathan8er/output/snake.svg" />
