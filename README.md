@@ -251,6 +251,12 @@ Built for the day the grid isn't there.
 
 <br>
 
+<!--COUNTER:START-->
+`updates: 0` &nbsp;·&nbsp; `days coding: 0` &nbsp;·&nbsp; `last refresh: pending`
+<!--COUNTER:END-->
+
+<br>
+
 <sub><i>Building weird stuff since I was ten.</i></sub>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8b5cf6,50:3b82f6,100:0d1117&height=120&section=footer" width="100%" />
